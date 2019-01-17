@@ -4,5 +4,15 @@
     "packages/*"
   ],
   "hoist": false,
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "publish": {
+      "registry": "https://registry.npmjs.org/"
+    },
+    "version": {
+      "push": false,
+      "allowBranch": "master",
+      "message": "chore(release): publish"
+    }
+  }
 }
