@@ -2,6 +2,8 @@
 
 test update
 
+Do something here with a version?
+
 > Scaffold Cardscript from a JSON-Schema schema
 
 ## <a name="install"></a>Install
