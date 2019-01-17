@@ -1,13 +1,8 @@
 {
-  "lerna": "2.6.0",
+  "lerna": "3.10.5",
   "packages": [
     "packages/*"
   ],
   "hoist": false,
-  "command": {
-    "init": {
-      "exact": false
-    }
-  },
-  "version": "0.0.6"
+  "version": "independent"
 }
